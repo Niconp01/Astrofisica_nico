@@ -25,7 +25,7 @@
 
 23:37:47    # salita elevazione 45 inizio
 23:39:47    # salita elevazione 45 fine
-00:08:19    # discesa elevazione 45 inizio
+00:08:29    # discesa elevazione 45 inizio
 00:11:39    # discesa elevazione 45 fine
 
 23:44:16    # salita elevazione 50 inizio
